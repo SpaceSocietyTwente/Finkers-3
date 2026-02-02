@@ -4,7 +4,7 @@ repository for all code related issues of the rocket Finkers 3
 DO NOT EDIT THE MAIN REPOSITORY !!!
 
 clone the repository
-create a private brach
+create a private branch
 edit the code
 document your code
 commit your changes
